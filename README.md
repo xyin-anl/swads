@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This package is not actively maintained, please report any version incompatibility, bugs or error using via Issues.
+> This package is not actively maintained, please report any version incompatibility, bugs and errors using via Issues :)
 
 <p align="center">
   <img src="assets/logo.png" alt="SwAds Logo" width="300"/>
